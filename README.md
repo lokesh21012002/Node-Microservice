@@ -1,12 +1,12 @@
 # Node-Microservice
 
-task-manager-Node
+Travel PLan Node Microservice
 Node
 Node installation
 Install
-git clone git-url
+git clone repo-url
 cd PROJECT_TITLE
-yarn install
+npm install
 Run npm install  for installing project dependencies and write npm start for a dev server.
 
 Configure app
